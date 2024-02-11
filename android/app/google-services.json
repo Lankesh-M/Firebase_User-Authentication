@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "818638209013",
+    "project_id": "fir-e04da",
+    "storage_bucket": "fir-e04da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:818638209013:android:8dec14df80ea7fd4ad6abc",
+        "android_client_info": {
+          "package_name": "com.learning.firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMI4C7J2M7SsePsnuFW4554r0Fdtkhdg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
